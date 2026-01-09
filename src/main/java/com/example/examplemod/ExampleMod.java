@@ -26,7 +26,7 @@ import org.apache.logging.log4j.Logger;
 @SuppressWarnings("removal")
 public class ExampleMod {
 
-    public static final String MOD_ID = "examplemod";
+    public static final String MOD_ID = "luna";
     public static final Logger LOGGER = LogManager.getLogger();
     public static GTRegistrate EXAMPLE_REGISTRATE = GTRegistrate.create(ExampleMod.MOD_ID);
 
